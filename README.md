@@ -17,4 +17,4 @@
 ``` sudo chmod 440/etc/sudoers/username ```
 
 
-##Step6. Test using (ssh nikhil@89.89.89.89)it should not ask for pwd .
+## Step6. Test using (ssh nikhil@89.89.89.89)it should not ask for pwd .
